@@ -9,7 +9,7 @@ The notebook includes multi-label classification using Gaussian and L1-penalized
 
 # Project Structure
 
-notebook/Joshi_Nishtha_HW7.ipynb
+notebook/Timmala_Karan_HW7.ipynb
 
 data/ (populated automatically by the notebook)
 
